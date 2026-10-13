@@ -493,7 +493,7 @@ Released under the [MIT License](LICENSE).
 ## 👩‍💻 Author
 
 **Cynthia Safa**
-Computer Science and Engineering, BRAC University
+Computer Science, BRAC University
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/httpscynthiasafayo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-safa2226/)
